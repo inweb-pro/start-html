@@ -2,7 +2,7 @@
 
 <p>Author: Alexandr Inweb</p>
 
-<p>Start HTML5 Template (Optimized for Google PageSpeed) with Bootstrap Sass, Gulp, Sass, Browsersync, Autoprefixer, Clean-CSS, Uglify, Imagemin, Vinyl-FTP, Bower (libs path) and Bourbon support. The template contains a <strong>.htaccess</strong> file with caching rules for web server.</p>
+<p>Start HTML5 Template (Optimized for Google PageSpeed, includes Sass project with SMACSS organisation) with Bootstrap Sass, Gulp, Sass, Browsersync, Autoprefixer, Clean-CSS, Uglify, Imagemin, Vinyl-FTP, Bower (libs path) and Bourbon support. The template contains a <strong>.htaccess</strong> file with caching rules for web server.</p>
 
 <h2>Gulp tasks:</h2>
 
